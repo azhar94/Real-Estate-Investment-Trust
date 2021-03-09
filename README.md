@@ -37,4 +37,4 @@ We have followed **5 key steps** in our Machine Learning framework:
 
 After considering various linear regression algorithms, we found that the win condition of MAE < 70K USD can be achieved by a Random Forest algorithm. 
 
-The MAE achieved was 68,116 USD and the corresponding $R^2$ value was 0.57.
+The MAE achieved was 68,116 USD and the corresponding R^2 value was 0.57.
